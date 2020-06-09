@@ -1,6 +1,6 @@
-# ESCape Overview
+![ESC key](esc.png?raw=true) 
 
-![ESC key](esc.jpg?raw=true) 
+# ESCape Overview
 
 Gnome extension to close overview by pressing ESC key only once.
 
