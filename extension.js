@@ -1,4 +1,4 @@
-const Clutter = imports.gi.Clutter;
+const {Clutter, St} = imports.gi;
 const Main = imports.ui.main;
 const SearchController = Main.overview.viewSelector ?
                                    Main.overview.viewSelector :
