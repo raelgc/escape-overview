@@ -25,7 +25,7 @@ function _onStageKeyPress(actor, event) {
   return Clutter.EVENT_PROPAGATE;
 }
 
-// Based on _onStageKeyPress function from https://github.com/GNOME/gnome-shell/blob/gnome-3-20/js/ui/viewSelector.js
+// Based on _onStageKeyPress function from https://github.com/GNOME/gnome-shell/blob/gnome-3-36/js/ui/viewSelector.js
 function _onStageKeyPressOld(actor, event) {
   if (Main.modalCount > 1)
     return Clutter.EVENT_PROPAGATE;
