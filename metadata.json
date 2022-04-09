@@ -6,9 +6,10 @@
     "3.36",
     "3.38",
     "40",
-    "41"
+    "41",
+    "42",
   ],
   "url": "https://github.com/raelgc/escape-overview",
   "uuid": "escape-overview@raelgc",
-  "version": 4
+  "version": 5
 }
