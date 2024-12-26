@@ -3,7 +3,8 @@
   "description": "Close the Overview with a single ESC press when searchbox is empty.\n\nThe default gnome-shell behaviour is, during first ESC press, clean the searchbox, then second ESC press get back to Activities overview and then third ESC press will finally close the overview.",
   "name": "ESCape Overview",
   "shell-version": [
-    "46"
+    "46",
+    "47"
   ],
   "url": "https://github.com/raelgc/escape-overview",
   "uuid": "escape-overview@raelgc",
