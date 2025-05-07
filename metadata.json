@@ -4,9 +4,10 @@
   "name": "ESCape Overview",
   "shell-version": [
     "46",
-    "47"
+    "47",
+    "48"
   ],
   "url": "https://github.com/raelgc/escape-overview",
   "uuid": "escape-overview@raelgc",
-  "version": 9
+  "version": 11
 }
